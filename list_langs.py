@@ -3,6 +3,7 @@
 import os
 from urllib.parse import quote
 
+# open README.md in write/edit mode
 readme = open('README.md', 'w')
 
 # Copy template to README
